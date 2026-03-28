@@ -1,3 +1,7 @@
+# 3D ParaView Visualization Project
+
+![My Visualization](visualization.png)
+
 This project demonstrates the use of ParaView for processing and visualizing 3D scientific datasets. Using a synthetic wavelet scalar field, I implemented a visualization pipeline to identify and extract specific data structures.
 
 Key Technical Features:
